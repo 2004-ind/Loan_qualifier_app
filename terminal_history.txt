@@ -1,0 +1,53 @@
+ 1182  history -r 50 >terminal_history.txt
+ 1181  history -r
+ 1180  history 50 > terminal_history.txt
+ 1179  history 50 > terminal_history.txt
+ 1178  history 50 > terminal_history.txt
+ 1177  git log
+ 1176  git push origin LoanQualifier-1.1
+ 1175  git push LoanQualifier-1.1
+ 1174  git tag LoanQualifier-1.1 -m "updated documentation"
+ 1173  git tag LoanQualifier-1.0 -m "updated documentation"
+ 1172  git log
+ 1171  git push
+ 1170  git diff
+ 1169  git commit -m "Updated documentation in README.md"
+ 1168  git status
+ 1167  git add data/abc.csv
+ 1166  git add data/Image_user_input.png
+ 1165  git add data/Image_saved_ql_incsv.png
+ 1164  git add data/Image_ql_without_save.png
+ 1163  git add data/Image_ql_with_save.png
+ 1162  git add data/Image_csv_path.png
+ 1161  git add app.py
+ 1160  git add README.md
+ 1159  git status
+ 1158  python app.py
+ 1157  python app.py
+ 1156  python app.py
+ 1155  python app.py
+ 1154  ls
+ 1153  code .
+ 1152  pwd
+ 1151  git branch
+ 1150  git log
+ 1149  git push origin LoanQualifier-1.0
+ 1148  git push LoanQualifier-1.0
+ 1147  git tag -a LoanQualifier-1.0 -m "First tag of version 1.0"
+ 1146  git log
+ 1145  git push 
+ 1144  git log
+ 1143  git status
+ 1142  git commit -m "First update after testing the code"
+ 1141  git diff
+ 1140  git rm qualifier/.DS_Store
+ 1139  git status
+ 1138  git status
+ 1137  git rm data/abn.csv
+ 1136  git rm data/a.csv
+ 1135  git status
+ 1134  git status
+ 1133  git add qualifier/
+ 1132  git add data/
+ 1131  git add app.py
+ 1130  git status
